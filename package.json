@@ -1,0 +1,14 @@
+{
+  "name": "horton-js",
+  "version": "0.0.1",
+  "description": "",
+  "license": "MIT",
+  "author": "Mehrab",
+  "type": "commonjs",
+  "main": "5gfi6gdi9/js/main.js",
+  "scripts": {},
+  "dependencies": {
+    "mathjs": "^14.2.1",
+    "node-fetch": "^3.3.2"
+  }
+}
